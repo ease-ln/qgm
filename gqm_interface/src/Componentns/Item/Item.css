@@ -1,0 +1,28 @@
+.RowContainer {
+    margin: 2vh 0.5vw 2vh 0;
+}
+
+.Link {
+    display: inline-block;
+
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+
+    padding: 0.7vh 1vw;
+    margin-right: 2vw;
+    border-radius: 0.3em;
+    border-left: 0.5em solid rgb(47,128,237);
+    box-shadow: 2px -2px 5px 0 rgba(0,0,0,.1),
+                -2px -2px 5px 0 rgba(0,0,0,.1),
+                2px 2px 5px 0 rgba(0,0,0,.1),
+                -2px 2px 5px 0 rgba(0,0,0,.1);
+    font-size: 0.7em;
+    letter-spacing: 0.03em;
+    transition: 0.3s all linear;
+}
+
+.Link:hover {
+    box-shadow: 0 3px 7px rgba(0,0,0,0.25), 0 3px 3px rgba(0,0,0,0.22);
+    color: rgb(7, 99, 176);
+}

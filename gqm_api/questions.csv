@@ -1,0 +1,65 @@
+,id,content,goal_id,metrics,Accuracy,Complexity,Execution time,LOC,Money,Number of bugs,Number of functions,Number of issues,Number of people,Number of reviews,Test coverage,Time
+0,1,long development process take,Study a program development process,['Time'],0,0,0,0,0,0,0,0,0,0,0,1
+1,2,many developer want,Study a program development process,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+2,3,deadline,Study a program development process,['Time'],0,0,0,0,0,0,0,0,0,0,0,1
+3,4,cost,Study a program development process,['Money'],0,0,0,0,1,0,0,0,0,0,0,0
+4,5,effective code review find bug pass development stage,Identify if frequent code reviews help to discover more bugs,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+5,6,effective code review prevention passing bug customer,Identify if frequent code reviews help to discover more bugs,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+6,7,effective code review bug find compare absence code review,Identify if frequent code reviews help to discover more bugs,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+7,8,improve quality code review,Decrease the amount of bugs in the code,"['Number of bugs', 'Number of people']",0,0,0,0,0,1,0,0,1,0,0,0
+8,9,long code review last,Identify if frequent code reviews help to discover more bugs,['Time'],0,0,0,0,0,0,0,0,0,0,0,1
+9,10,many people review code,Identify if frequent code reviews help to discover more bugs,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+10,11,developer interaction project,Observing most engaging developers,"['Number of issues', 'Number of reviews']",0,0,0,0,0,0,0,1,0,1,0,0
+11,12,quality work perform,Assess the productivity of software developers,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+12,13,quality software,Estimate quality of a software,"['Number of bugs', 'Test coverage']",0,0,0,0,0,1,0,0,0,0,1,0
+13,14,much budget need construct mvp,Create the library management application,['Money'],0,0,0,0,1,0,0,0,0,0,0,0
+14,15,many people need get involve,Create the library management application,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+15,16,much time take,Create the library management application,['Time'],0,0,0,0,0,0,0,0,0,0,0,1
+16,17,number function lead cleaner code,Develop cleaner code,['Number of functions'],0,0,0,0,0,0,1,0,0,0,0,0
+17,18,take break hour increase productivity,Increase the number of lines of code written in a month,['LOC'],0,0,0,1,0,0,0,0,0,0,0,0
+18,19,work hour per day increase productivity developer,Increase the number of lines of code written in a month,['LOC'],0,0,0,1,0,0,0,0,0,0,0,0
+19,20,kind neural network need use,Creating face detection and recognition computer vision application with an attendance check system,['Accuracy'],1,0,0,0,0,0,0,0,0,0,0,0
+20,21,much time require,Creating face detection and recognition computer vision application with an attendance check system,['Execution time'],0,0,1,0,0,0,0,0,0,0,0,0
+21,22,understand user story test,Analyze the code coverage of login feature,['Test coverage'],0,0,0,0,0,0,0,0,0,0,1,0
+22,23,quality software test,Measure the technical quality of object-oriented software product in the company,"['LOC', 'Number of bugs']",0,0,0,1,0,1,0,0,0,0,0,0
+23,24,complex software,Measure the technical quality of object-oriented software product in the company,['Complexity'],0,1,0,0,0,0,0,0,0,0,0,0
+24,25,software already,Fix the most bugs in the code,"['LOC', 'Number of bugs']",0,0,0,1,0,1,0,0,0,0,0,0
+25,26,many line code,Find bugs and clear them from our program,['LOC'],0,0,0,1,0,0,0,0,0,0,0,0
+26,27,many developer work program,Find bugs and clear them from our program,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+27,28,many error satisfactory,Find bugs and clear them from our program,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+28,29,line affect number defect code,Inspect the relationship between the number of defects and day time,"['LOC', 'Number of bugs', 'Time']",0,0,0,1,0,1,0,0,0,0,0,1
+29,30,quality code,Verify that in the most used scenarios our module behaves as intended,"['Number of bugs', 'Test coverage']",0,0,0,0,0,1,0,0,0,0,1,0
+30,31,many code,Code without bugs,['LOC'],0,0,0,1,0,0,0,0,0,0,0,0
+31,32,many bug,Code without bugs,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+32,33,many task,Launch first version of Inno App before the October,['Number of issues'],0,0,0,0,0,0,0,1,0,0,0,0
+33,34,many bug,Launch first version of Inno App before the October,"['LOC', 'Number of bugs']",0,0,0,1,0,1,0,0,0,0,0,0
+34,35,many user visit website without ensure perfomance issue,Create a website for video streaming service,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+35,36,number bug current version program,Create a website for video streaming service,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+36,37,good app quality,Analyze the improvement of Rita App,"['Number of bugs', 'Test coverage']",0,0,0,0,0,1,0,0,0,0,1,0
+37,38,check reliability soft,Check quality of the software,['Test coverage'],0,0,0,0,0,0,0,0,0,0,1,0
+38,39,check completeness work,Check quality of the software,['Number of issues'],0,0,0,0,0,0,0,1,0,0,0,0
+39,40,many bug found use pair program development process,Analyze the efficiency of pair programming,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+40,41,much time take complete new software module use pair program,Analyze the efficiency of pair programming,['Time'],0,0,0,0,0,0,0,0,0,0,0,1
+41,42,much loc write use pair program,Analyze the efficiency of pair programming,['LOC'],0,0,0,1,0,0,0,0,0,0,0,0
+42,43,good quality,Increase code quality?,"['LOC', 'Number of bugs', 'Test coverage']",0,0,0,1,0,1,0,0,0,0,1,0
+43,44,method use identify bug,Improve the development process with the focus on detected bugs,"['LOC', 'Number of bugs']",0,0,0,1,0,1,0,0,0,0,0,0
+44,45,quality work,How to track the progress on current development process,"['LOC', 'Number of bugs']",0,0,0,1,0,1,0,0,0,0,0,0
+45,46,quantity work,How to track the progress on current development process,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+46,47,programmer productivity,Evaluate the effectiveness of a program,['Execution time'],0,0,1,0,0,0,0,0,0,0,0,0
+47,48,code quality satisfactory,Evaluate the effectiveness of a program,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+48,49,use tool,Evaluate the effectiveness of a program,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+49,50,project do expect deadline,Analyze the process with respect to result,['Time'],0,0,0,0,0,0,0,0,0,0,0,1
+50,51,project meet requirement,Analyze the process with respect to result,['Number of issues'],0,0,0,0,0,0,0,1,0,0,0,0
+51,52,project take expect cost,Analyze the process with respect to result,['Money'],0,0,0,0,1,0,0,0,0,0,0,0
+52,53,many line program,Increase software quality by testing,['LOC'],0,0,0,1,0,0,0,0,0,0,0,0
+53,54,much cover test,Increase software quality by testing,['Test coverage'],0,0,0,0,0,0,0,0,0,0,1,0
+54,55,many bug,Increase software quality by testing,"['LOC', 'Number of bugs']",0,0,0,1,0,1,0,0,0,0,0,0
+55,56,execution time,Increasing speed of several python programs,['Execution time'],0,0,1,0,0,0,0,0,0,0,0,0
+56,57,good developer perform task,Estimate teams productivity,"['Number of bugs', 'Number of issues']",0,0,0,0,0,1,0,1,0,0,0,0
+57,58,much time need develop,Develop a service for automatic attendance tracking within 3 months,['Time'],0,0,0,0,0,0,0,0,0,0,0,1
+58,59,many developer team,Develop a service for automatic attendance tracking within 3 months,['Number of people'],0,0,0,0,0,0,0,0,1,0,0,0
+59,60,programmer complete plan,Check if specific software development process is effective,['Number of issues'],0,0,0,0,0,0,0,1,0,0,0,0
+60,61,number detect unwanted behavior,Effectiveness of unit test,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+61,62,test phase enough cover code correctly write,Reduce number of peer reviews,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0
+62,63,long take complete task,Evaluate developers productivity in agile development,['Number of issues'],0,0,0,0,0,0,0,1,0,0,0,0
+63,64,quality code write,Evaluate developers productivity in agile development,['Number of bugs'],0,0,0,0,0,1,0,0,0,0,0,0

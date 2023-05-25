@@ -1,0 +1,68 @@
+.GoalsPage {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.GoalsLogOut {
+    position: absolute;
+    top: 1vh;
+    right: 2vw;
+    cursor: pointer;
+    font-size: 0.9em;
+    text-decoration: none;
+    font-weight: normal;
+    color:  var(--main-color);
+}
+
+.GoalsLogOut:hover {
+    border-bottom: 0.1em solid var(--main-color);
+}
+
+.GoalsHeader {
+    margin: 0.1vh 0;
+    font-size: 1.3em;
+    color: var(--main-color);
+}
+
+.GoalsList{
+    list-style: none;
+    padding: 0;
+}
+
+.NewGoalContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5em;
+}
+
+.TextNewGoal {
+    color: black;
+    border: none;
+
+    padding: 0.7vh 1vw;
+    margin-right: 2vw;
+    margin-bottom: 2em;
+    border-radius: 0.3em;
+    border-left: 0.5em solid var(--main-color);
+    box-shadow: 2px -2px 5px 0 rgba(0,0,0,.1),
+                -2px -2px 5px 0 rgba(0,0,0,.1),
+                2px 2px 5px 0 rgba(0,0,0,.1),
+                -2px 2px 5px 0 rgba(0,0,0,.1);
+    font-size: 0.75em;
+    letter-spacing: 0.03em;
+    transition: 0.3s all linear;
+}
+
+.TextNewGoal:focus {
+    outline: none;
+}
+
+.ButtonContainer {
+    position: absolute;
+    bottom: 1vh;
+    right: 1vw;
+}

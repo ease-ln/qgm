@@ -1,0 +1,64 @@
+1	long development process take	Study a program development process	{'1': 'Time'}
+2	many developer want	Study a program development process	{'1': 'Number of people'}
+3	deadline	Study a program development process	{'1': 'Time'}
+4	cost	Study a program development process	{'1': 'Money'}
+5	effective code review find bug pass development stage	Identify if frequent code reviews help to discover more bugs	{'1': 'Number of bugs'}
+6	effective code review prevention passing bug customer	Identify if frequent code reviews help to discover more bugs	{'1': 'Number of bugs'}
+7	effective code review bug find compare absence code review	Identify if frequent code reviews help to discover more bugs	{'1': 'Number of bugs'}
+8	improve quality code review	Decrease the amount of bugs in the code	{'1': 'Number of bugs', '2': 'Number of people'}
+9	long code review last	Identify if frequent code reviews help to discover more bugs	{'1': 'Time'}
+10	many people review code	Identify if frequent code reviews help to discover more bugs	{'1': 'Number of people'}
+11	developer interaction project	Observing most engaging developers	{'1': 'Number of issues', '2': 'Number of reviews'}
+12	quality work perform	Assess the productivity of software developers	{'1': 'Number of bugs'}
+13	quality software	Estimate quality of a software	{'1': 'Number of bugs', '2': 'Test coverage'}
+14	much budget need construct mvp	Create the library management application	{'1': 'Money'}
+15	many people need get involve	Create the library management application	{'1': 'Number of people'}
+16	much time take	Create the library management application	{'1': 'Time'}
+17	number function lead cleaner code	Develop cleaner code	{'1': 'Number of functions'}
+18	take break hour increase productivity	Increase the number of lines of code written in a month	{'1': 'LOC'}
+19	work hour per day increase productivity developer	Increase the number of lines of code written in a month	{'1': 'LOC'}
+20	kind neural network need use	Creating face detection and recognition computer vision application with an attendance check system	{'1': 'Accuracy'}
+21	much time require	Creating face detection and recognition computer vision application with an attendance check system	{'1': 'Execution time'}
+22	understand user story test	Analyze the code coverage of login feature	{'1': 'Test coverage'}
+23	quality software test	Measure the technical quality of object-oriented software product in the company	{'1': 'LOC', '2': 'Number of bugs'}
+24	complex software	Measure the technical quality of object-oriented software product in the company	{'1': 'Complexity'}
+25	software already	Fix the most bugs in the code	{'1': 'LOC', '2': 'Number of bugs'}
+26	many line code	Find bugs and clear them from our program	{'1': 'LOC'}
+27	many developer work program	Find bugs and clear them from our program	{'1': 'Number of people'}
+28	many error satisfactory	Find bugs and clear them from our program	{'1': 'Number of bugs'}
+29	line affect number defect code	Inspect the relationship between the number of defects and day time	{'1': 'LOC', '2': 'Number of bugs', '3': 'Time'}
+30	quality code	Verify that in the most used scenarios our module behaves as intended	{'1': 'Number of bugs', '2': 'Test coverage'}
+31	many code	Code without bugs	{'1': 'LOC'}
+32	many bug	Code without bugs	{'1': 'Number of bugs'}
+33	many task	Launch first version of Inno App before the October	{'1': 'Number of issues'}
+34	many bug	Launch first version of Inno App before the October	{'1': 'LOC', '2': 'Number of bugs'}
+35	many user visit website without ensure perfomance issue	Create a website for video streaming service	{'1': 'Number of people'}
+36	number bug current version program	Create a website for video streaming service	{'1': 'Number of bugs'}
+37	good app quality	Analyze the improvement of Rita App	{'1': 'Number of bugs', '2': 'Test coverage'}
+38	check reliability soft	Check quality of the software	{'1': 'Test coverage'}
+39	check completeness work	Check quality of the software	{'1': 'Number of issues'}
+40	many bug found use pair program development process	Analyze the efficiency of pair programming	{'1': 'Number of bugs'}
+41	much time take complete new software module use pair program	Analyze the efficiency of pair programming	{'1': 'Time'}
+42	much loc write use pair program	Analyze the efficiency of pair programming	{'1': 'LOC'}
+43	good quality	Increase code quality?	{'1': 'LOC', '2': 'Number of bugs', '3': 'Test coverage'}
+44	method use identify bug	Improve the development process with the focus on detected bugs	{'1': 'LOC', '2': 'Number of bugs'}
+45	quality work	How to track the progress on current development process	{'1': 'LOC', '2': 'Number of bugs'}
+46	quantity work	How to track the progress on current development process	{'1': 'Number of people'}
+47	programmer productivity	Evaluate the effectiveness of a program	{'1': 'Execution time'}
+48	code quality satisfactory	Evaluate the effectiveness of a program	{'1': 'Number of bugs'}
+49	use tool	Evaluate the effectiveness of a program	{'1': 'Number of people'}
+50	project do expect deadline	Analyze the process with respect to result	{'1': 'Time'}
+51	project meet requirement	Analyze the process with respect to result	{'1': 'Number of issues'}
+52	project take expect cost	Analyze the process with respect to result	{'1': 'Money'}
+53	many line program	Increase software quality by testing	{'1': 'LOC'}
+54	much cover test	Increase software quality by testing	{'1': 'Test coverage'}
+55	many bug	Increase software quality by testing	{'1': 'LOC', '2': 'Number of bugs'}
+56	execution time	Increasing speed of several python programs	{'1': 'Execution time'}
+57	good developer perform task	Estimate teams productivity	{'1': 'Number of bugs', '2': 'Number of issues'}
+58	much time need develop	Develop a service for automatic attendance tracking within 3 months	{'1': 'Time'}
+59	many developer team	Develop a service for automatic attendance tracking within 3 months	{'1': 'Number of people'}
+60	programmer complete plan	Check if specific software development process is effective	{'1': 'Number of issues'}
+61	number detect unwanted behavior	Effectiveness of unit test	{'1': 'Number of bugs'}
+62	test phase enough cover code correctly write	Reduce number of peer reviews	{'1': 'Number of bugs'}
+63	long take complete task	Evaluate developers productivity in agile development	{'1': 'Number of issues'}
+64	quality code write	Evaluate developers productivity in agile development	{'1': 'Number of bugs'}

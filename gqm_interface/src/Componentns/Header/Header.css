@@ -1,0 +1,31 @@
+.HeaderContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Navigation {
+    margin: 2vh 2vw 0 2vw;
+    cursor: pointer;
+    font-size: 0.9em;
+    text-decoration: none;
+    font-weight: normal;
+    color:  var(--main-color);
+}
+
+.Navigation > span:hover {
+    padding-bottom: 0.2em;
+    border-bottom: 0.1em solid rgb(47,128,237);
+}
+
+.HeaderTextContainer {
+    max-width: 60%;
+    text-align: center;
+    padding-right: 2em;
+}
+
+.HeaderText {
+    font-size: 1em;
+    text-align: center;
+    font-weight: normal;
+}

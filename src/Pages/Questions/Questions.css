@@ -1,0 +1,49 @@
+.QuestionsPage {
+    width: 100vw;
+    height: 100vh;
+}
+
+.MainPartContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70%;
+}
+
+.QuestionsHeader {
+    margin: 0.1vh 0;
+    font-size: 1.3em;
+    color: var(--main-color);
+}
+
+.QuestionsList{
+    list-style: none;
+    padding: 0 0 1em 0;
+}
+
+.NewQuestionContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.TextNewQuestion {
+    color: black;
+    border: none;
+
+    padding: 0.7vh 1vw;
+    margin-right: 2vw;
+    border-radius: 0.3em;
+    border-left: 0.5em solid rgb(47,128,237);
+    box-shadow: 2px -2px 5px 0 rgba(0,0,0,.1),
+                -2px -2px 5px 0 rgba(0,0,0,.1),
+                2px 2px 5px 0 rgba(0,0,0,.1),
+                -2px 2px 5px 0 rgba(0,0,0,.1);
+    font-size: 0.75em;
+    letter-spacing: 0.03em;
+    transition: 0.3s all linear;
+}
+
+.TextNewQuestion:focus {
+    outline: none;
+}

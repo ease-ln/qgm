@@ -1,0 +1,30 @@
+.RectangularButton {
+    padding: 0.7vh 1vw;
+    margin-bottom: 1vh;
+    font-size: 0.7em;
+    border-radius: 0.5em;
+}
+
+.Button {
+    border: none;
+    background: rgb(47,128,237);
+    color: white;
+    cursor: pointer;
+    box-shadow: 2px -2px 5px 0 rgba(0,0,0,.1),
+                -2px -2px 5px 0 rgba(0,0,0,.1),
+                2px 2px 5px 0 rgba(0,0,0,.1),
+                -2px 2px 5px 0 rgba(0,0,0,.1);
+}
+
+.RoundButton {
+    width: 1.5em;
+    height: 1.5em;
+    margin: 2vh 1vw;
+    font-size: 1em;
+    border-radius: 1em;
+}
+
+.Button:focus, .Button:hover{
+    outline: 0;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.25), 0 3px 3px rgba(0,0,0,0.22);
+}
